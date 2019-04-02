@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name A4957S)(type Legacy)(uri "C:/Users/Matthew/OneDrive - Concordia University - Canada/Capstone/A4957S.lib")(options "")(descr ""))
+  (lib (name Capstone-rescue)(type Legacy)(uri ${KIPRJMOD}/Capstone-rescue.lib)(options "")(descr ""))
+)
