@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name A4957SESTR-T)(type KiCad)(uri ${KIPRJMOD}/A4957SESTR-T.pretty)(options "")(descr ""))
+  (lib (name AOT470)(type KiCad)(uri ${KIPRJMOD}/AOT470.pretty)(options "")(descr ""))
+  (lib (name UA741)(type KiCad)(uri ${KIPRJMOD}/UA741.pretty)(options "")(descr ""))
+  (lib (name SOIC127P600X175-8N)(type KiCad)(uri ${KIPRJMOD}/SOIC127P600X175-8N.pretty)(options "")(descr ""))
+)
